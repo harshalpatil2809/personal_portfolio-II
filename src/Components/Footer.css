@@ -1,0 +1,14 @@
+.footer{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 10vw;
+    font-size: 16px;
+}
+.footer1{
+    color: #1D4ED8;
+    line-height: 50px;
+}
