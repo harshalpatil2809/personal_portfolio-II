@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
+import Layout from "./Layout";
 
 const App = () => {
   return (
-    <div>
-      <h1 className='bg-blue-500 text-yellow-300 mt-5 p-5 flex items-center justify-center'>Harshal patil</h1>
-    </div>
-  )
-}
+    <>
+      <Layout />
+    </>
+  );
+};
 
-export default App
+export default App;
